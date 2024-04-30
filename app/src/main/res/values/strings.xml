@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SecondApp</string>
+    <string name="registration">Или зарегистрируйтесь</string>
+    <string name="enter">Выполните вход</string>
+    <string name="gmail">Введите вашу почту</string>
+    <string name="password">Введите пароль</string>
+    <string name="come">Войти</string>
+    <string name="forgot_password">Забыл пароль?</string>
+    <string name="press_here">Нажмите сюда</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="entrance">Вход</string>
+</resources>
